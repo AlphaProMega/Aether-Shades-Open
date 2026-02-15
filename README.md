@@ -1,5 +1,9 @@
 # Aether Shades — Quiet Lens v1.0
 
+This is a Legacy repository, new updates are at
+https://github.com/Eternally-Thriving-Grandmasterism
+since 2025.
+
 ![Lattice Core Burst](art/v1/grok_1766632382614.jpg)
 
 **Open-source AR glasses that quietly reveal the truth.**  
