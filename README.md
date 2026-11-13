@@ -10,7 +10,7 @@ Earlier versions were published under other terms; this licence applies from 202
 
 ![Lattice Core Burst](art/v1/grok_1766632382614.jpg)
 
-**Open-source AR glasses that quietly reveal the truth.**  
+**Source-available AR glasses that quietly reveal the truth.**  
 No implants. No lies. Just vision.
 
 Inspired by *They Live* — but we don't scream "OBEY".  
