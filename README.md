@@ -4,8 +4,9 @@ This is a Legacy repository, new updates are at
 https://github.com/Eternally-Thriving-Grandmasterism
 since 2025.
 
-**License Update — April 11 2026**  
-This project was previously under MIT. As of April 11 2026, it is now under the **Autonomicity Games Sovereign Mercy License (AG-SML)**. New code and future distributions are protected. Past MIT forks remain MIT. Commercial / enterprise use requires a paid license from Autonomicity Games Inc. Individuals may continue using it freely for personal, educational, and daily-living purposes.
+**License — AG-SML v1.2**  
+This project is licensed under the Autonomicity Games Sovereign Mercy License (AG-SML) v1.2: see [LICENSE](LICENSE). Commercial or revenue use beyond the free grant requires a separate commercial licence: see [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md).  
+Earlier versions were published under other terms; this licence applies from 2026-11-13.
 
 ![Lattice Core Burst](art/v1/grok_1766632382614.jpg)
 
@@ -23,7 +24,7 @@ We make deception feel... slightly heavy. Truth feels light.
 - Subtle deception filter (tint pulses, sticky scroll, weight shifts)
 - Standalone capable (no phone needed in v2)
 - 100% local processing — zero data harvest
-- MIT licensed — build, modify, distribute freely
+- License: AG-SML v1.2, see [LICENSE](LICENSE) and [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)
 
 ![Infinite Lattice Horizon](art/v1/grok_1766632742901.jpg)
 
